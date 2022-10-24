@@ -8,4 +8,5 @@ Pour chaque travail nous ferons un focus sur les techniques css employées avec.
 ## Progression / évaluation
 Votre progression et votre évaluation sont basées sur :  
 - Le lien entre les exercices et la consultation du support de cours et autres ressources relatives en ligne.
-- La pratique des exercices en classe et à la maison et votre curiosité.et des autres ressources telle que la doc de mozilla.
+- Votre pratique des exercices en classe
+- Vos expérimentations à la maison.
