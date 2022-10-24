@@ -6,7 +6,7 @@ Pour chaque travail nous ferons un focus sur les techniques css employées visib
 - [Doc HTML mozilla](https://developer.mozilla.org/fr/docs/Web/HTML) 
 - [Doc CSS Mozilla](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
 ## Progression / évaluation
-Votre progression et votre évaluation sont basées sur :  
+Votre progression et votre réussite aux évaluations sont basées sur :  
 - Le lien entre les exercices et la consultation du support de cours et autres ressources relatives en ligne.
-- Votre pratique des exercices en classe
+- Votre pratique des exercices en classe.
 - Vos expérimentations à la maison.
