@@ -1,0 +1,21 @@
+/* 
+    règles css
+    -----------
+
+    selecteur {
+        proprietes: valeur;
+        proprietes: valeur;
+        proprietes: valeur;
+        ...
+    }
+*/
+
+h1 {
+    /* couleur */
+    color:crimson; 
+    /* donner une taille de 60px */
+    font-size: 60px;
+    /* centrer sur la page */
+    text-align: center;
+}
+

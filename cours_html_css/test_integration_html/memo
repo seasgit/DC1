@@ -1,0 +1,10 @@
+- un fichier html principal
+    - un titre 
+    - un contenu de texte
+    - des liens 
+        chaque lien amène à un page particulière
+
+- page particulière
+    - titre
+    - texte
+    - image
