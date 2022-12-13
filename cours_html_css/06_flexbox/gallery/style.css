@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+
+.container-flex {
+    /* flexbox */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+    /* -- */
+    width: 900px;
+    height: 600px;
+    margin: 50px auto 0 auto;
+    border:1px solid black; 
+}
+
+
+.container-flex figure {
+    width: 280px;
+    height: 280px;
+    background-size: cover;
+} 
+
+/* la boite titre a les dimensions de la figure parent */
+.titre {
+    /* flexbox */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* -- */
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.693);
+    /* -- invisible */
+    opacity: 0;
+    /* effet */
+    transition: 0.5s;
+}
+
+/* titre visible au survol */
+.titre:hover {
+    opacity: 1;
+}
+
+.titre p {
+    font-family: sans-serif;
+    color: white;
+    font-size: 24px;
+}
+
+
+.fg1 {
+    background-image: url(./images/chevaux.jpeg);
+}
+
+.fg2 {
+    background-image: url(./images/golden.jpeg);
+}
+
+.fg3 {
+    background-image: url(./images/grenouille.jpeg);
+}
+
+.fg4 {
+    background-image: url(./images/leopard.jpeg);
+}
+
+.fg5 {
+    background-image: url(./images/mouche.webp);
+}
+
+.fg6 {
+    background-image: url(./images/perroquet.jpeg);
+}
+
+
+
