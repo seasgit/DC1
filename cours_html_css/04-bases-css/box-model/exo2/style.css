@@ -1,0 +1,47 @@
+/*  pour tous les éléments de page */
+* {
+    margin: 0;
+}
+section {
+    width: 500px;
+    /* la hauteur s'adapte au contenu */
+    height: auto;
+}
+
+section p {
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.s1{
+    /*  marges de la 1ere section */
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    /* espace interne = padding */
+    padding: 5px 10px 5px 10px;
+
+    background-color: rgb(229, 229, 229);
+}
+
+.s2 {
+    /* marges en raccourci 
+      ordre => top right bottom left
+        ici la section est centrée
+    */ 
+    margin: 10px auto 0 auto;
+    /* padding  */
+    padding: 8px 12px 8px 12px;
+    /* bordures */
+    border:5px solid rgb(116, 115, 115);
+    
+    background-color:rgb(234, 223, 210);
+}
+
+/* 
+    Attention bordures et padding
+    augmentent les dimensions des boites
+
+*/
