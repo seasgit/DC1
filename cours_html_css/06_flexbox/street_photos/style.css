@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+.zone-titre {
+    width: 900px;
+    margin: 20px auto 20px auto;
+    text-align: center;
+    background-color: ;
+}
+
+.zone-titre  h1 {
+    font-size: 40px;
+}
+
+
+.zone-photos {
+    /* flexbox */
+    display: flex;
+    justify-content: space-evenly;
+    /* -- */
+    margin: 20px auto 20px auto;
+    width: 900px;
+        /* hauteur provisoire */
+        height: 600px;
+    background-color: #ccc;
+}
+
+.zone-photos figure {
+    width: 30%;
+    height: 600px;
+    background: #000;
+}

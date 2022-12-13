@@ -1,0 +1,26 @@
+/*  reset des marges */
+* {
+    margin: 0;
+} 
+/* sélecteur de class .decor */
+.decor {
+    /* ordre marges : top right bottom left */
+    margin: 80px auto 0 auto; 
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    background-image: url(./images/plage.jpg);
+    /* l'image s'adapte à la boite */
+    background-size: cover;
+    /* text-align: center; */
+}
+
+/* dans .decor, on s'adresse au h1 */
+.decor h1 {
+    margin-top: 300px;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 0 4px 20px #777;
+}
