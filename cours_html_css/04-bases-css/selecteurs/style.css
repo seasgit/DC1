@@ -1,0 +1,37 @@
+/* 
+    Ici on a des sélecteurs naturels
+    Dans le sens où on sélectionne des balises html
+*/
+
+/* tous les p ont une famille de police */
+
+p {
+  font-family: sans-serif;
+}
+
+/*
+ Ici sélecteur naturel mais plus précis.
+ On s'adresse au p contenu dans la section
+
+*/
+section p {
+    font-style: italic;
+}
+
+
+/* 
+sélection avec des classes 
+Ici on donne des noms à des balises
+*/
+
+.important{
+    font-size: 22px;
+}
+
+.alert {
+    color:orangered
+}
+
+.info {
+    color:dodgerblue;
+}

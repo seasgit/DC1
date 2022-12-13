@@ -1,0 +1,14 @@
+h1 {
+    /* unité pixel est fixe */
+    font-size: 50px;
+}
+
+img {
+    /* unité % adapte le contenu à la largeur du conteneur parent */
+    width: 60%;
+}
+
+/*
+ voir 
+https://github.com/seasgit/bases_html_css/wiki/C-unites 
+*/

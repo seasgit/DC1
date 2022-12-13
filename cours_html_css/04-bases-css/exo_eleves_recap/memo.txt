@@ -1,0 +1,9 @@
+Objectif : récapitulatif
+- unités
+- sélecteurs
+- box model
+
+Créer une ou deux boites contenant
+- titre ,sous titre
+- textes et images
+Essayer de mettre un style qui offre un rendu propre
